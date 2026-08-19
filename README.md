@@ -23,4 +23,4 @@ The interface is designed around a simple travel-booking flow, taking users from
 
 ## 🎨 Figma Prototype
 
-[View the Figma Prototype](https://www.figma.com/proto/WWecCDk9dnFxCxCDOZNTJx/Time-Travel-App-UI?node-id=0-1&t=H3qaEjeveKxU38i0-1)
+[View the Figma Prototype](https://www.figma.com/design/WWecCDk9dnFxCxCDOZNTJx/Time-Travel-App-UI?node-id=0-1&t=H3qaEjeveKxU38i0-1)
