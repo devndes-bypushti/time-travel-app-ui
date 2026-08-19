@@ -10,6 +10,8 @@ The interface is designed around a simple travel-booking flow, taking users from
   <img src="images/landing%20page.png" width="155">
   <img src="images/passport%20creation_7.png" width="155">
   <img src="images/destination%20selection_3.png" width="155">
+</p>
+<p align="center">
   <img src="images/enter%20date_8.png" width="155">
   <img src="images/details%20confirmation%20page.png" width="155">
   <img src="images/ticket%20page.png" width="155">
